@@ -10,9 +10,9 @@
 	>
 <channel>
 	<title>
-	Comments for What&#039;s New	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Test Blog May	</title>
+	<atom:link href="/2023/05/16/test-blog-may/feed/" rel="self" type="application/rss+xml" />
+	<link>/2023/05/16/test-blog-may/</link>
 	<description>Find Your Style</description>
 	<lastBuildDate>Tue, 16 May 2023 07:33:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
