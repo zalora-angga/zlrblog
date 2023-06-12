@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/staging.id.zalora.net/blog/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/blog/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/staging.id.zalora.net/blog/</loc>
+		<loc>/blog/</loc>
 		<lastmod>2023-05-29T10:15:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/staging.id.zalora.net/blog/uncategorized/greek-inspirations/</loc>
+		<loc>/blog/uncategorized/greek-inspirations/</loc>
 		<lastmod>2023-01-24T05:19:01+00:00</lastmod>
 		<image:image>
-			<image:loc>/staging.id.zalora.net/blog/wp-content/uploads/2023/01/woman-hair-face-skin-hairstyle-ear-1600848-pxhere-1.jpeg</image:loc>
+			<image:loc>/blog/wp-content/uploads/2023/01/woman-hair-face-skin-hairstyle-ear-1600848-pxhere-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/staging.id.zalora.net/blog/uncategorized/qa-with-lana-devito-jewellery-designer/</loc>
+		<loc>/blog/uncategorized/qa-with-lana-devito-jewellery-designer/</loc>
 		<lastmod>2023-01-24T05:19:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/staging.id.zalora.net/blog/wp-content/uploads/2023/01/pendant_lanadevito.png</image:loc>
+			<image:loc>/blog/wp-content/uploads/2023/01/pendant_lanadevito.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/staging.id.zalora.net/blog/uncategorized/qa-with-andrew-holsen-hand-maker/</loc>
+		<loc>/blog/uncategorized/qa-with-andrew-holsen-hand-maker/</loc>
 		<lastmod>2023-01-24T05:19:03+00:00</lastmod>
 		<image:image>
-			<image:loc>/staging.id.zalora.net/blog/wp-content/uploads/2023/01/pendant_andrewholsen.png</image:loc>
+			<image:loc>/blog/wp-content/uploads/2023/01/pendant_andrewholsen.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/staging.id.zalora.net/blog/uncategorized/test-blog/</loc>
+		<loc>/blog/uncategorized/test-blog/</loc>
 		<lastmod>2023-05-03T02:58:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/staging.id.zalora.net/blog/uncategorized/test-blog-may/</loc>
+		<loc>/blog/uncategorized/test-blog-may/</loc>
 		<lastmod>2023-05-16T07:33:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/staging.id.zalora.net/blog/wp-content/uploads/2023/05/klamby-8430-0894104-1.webp</image:loc>
+			<image:loc>/blog/wp-content/uploads/2023/05/klamby-8430-0894104-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/staging.id.zalora.net/blog/fashion/meta-slider/</loc>
+		<loc>/blog/fashion/meta-slider/</loc>
 		<lastmod>2023-05-29T10:15:30+00:00</lastmod>
 	</url>
 </urlset>

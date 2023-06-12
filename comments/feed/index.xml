@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments for What&#039;s New	</title>
-	<atom:link href="/staging.id.zalora.net/blog/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/staging.id.zalora.net/blog/</link>
+	<atom:link href="/blog/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
 	<description>Find Your Style</description>
 	<lastBuildDate>Mon, 29 May 2023 10:15:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
