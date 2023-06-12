@@ -11,10 +11,10 @@
 <channel>
 	<title>
 	Comments for What&#039;s New	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/staging.id.zalora.net/blog/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/staging.id.zalora.net/blog/</link>
 	<description>Find Your Style</description>
-	<lastBuildDate>Tue, 16 May 2023 07:33:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 May 2023 10:15:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
